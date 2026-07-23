@@ -1,0 +1,35 @@
+Forum: Dread (Onion)
+Sub: Ketamine discussion
+Style: Phone autocaps (capitalized first word) → high likelihood of mobile device usage
+Behavior: Consistent posts related to drug use
+Cross-Forum Risk: If similar narcotics posts appear on clearnet, potential identity linkage
+Notes: Alias demonstrates narcotics interest; possible jurisdiction overlap
+
+Geographic Indicators:
+- Estimated posting origin: US (≈60%) and Canada (≈40%)
+- Drug reviews primarily reference US context
+- Subscribed to "We Are The North" market → Canada-based, restricted to Canadian users
+
+Language/Word Signals:
+- Notable typo/phrase: "Reallyl?"
+- Slang markers: "yo", "homie"
+
+Subscriptions:
+- High engagement: SEX, DRUG
+- Additional subs: OPSEC, FRAUD, HACKING, LINUX, BTC-related
+- Subscribed to Jewish-related sub on Dread → indicates either Jewish identity, interest in Judaism, or Canada-based cultural overlap
+
+Estimated Role:
+- Hacker/developer profile
+- Active in Fawkes market (drug sales)
+- Deals with counterfeit vendors → potential vendor/escrow role
+- Moderator in counterfeit sub
+
+Identity Indicators:
+- Self-presentation suggests Black identity (based on slang/typo usage)
+- Heavy drug usage inferred from posts in /d/coke
+- Professional-level cocaine reviews
+- Sample testing heroin → advanced user/reviewer
+
+Summary Assessment:
+ demonstrates high engagement in narcotics-related subs, technical subs (Linux, hacking, BTC), and fraud/counterfeit communities. Indicators suggest dual role as both consumer (heavy usage, reviews) and vendor/mod (counterfeit market involvement). Geographic signals point to US/Canada overlap, with stronger Canadian market ties. Behavioral and linguistic markers provide potential identity linkage if cross-platform activity is observed.
